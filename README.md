@@ -1,4 +1,4 @@
 # Apnacollege-demo
 This is my first Repsitory
 <br>
-Author- Tahseen Raja
+Author- Tahseen Raja(king)
